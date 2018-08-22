@@ -77,13 +77,13 @@ es6中最常用的有：
 - map
 - ......
 
-## 前端框架
+## 前端热门框架
 
 [Vuejs](https://cn.vuejs.org/index.html)
 
 [Reactjs](https://cn.vuejs.org/index.html)
 
-## 当下热门
+## 当下热门技能
 
 - 前端框架（vue or react）
 - nodejs（express or koa 框架）
@@ -93,6 +93,8 @@ es6中最常用的有：
 - 微信小程序
 - react-native
 - 字体图标库(了解一下)
+- es6 
+- TypeScript
 
 ### 推荐博客
 
