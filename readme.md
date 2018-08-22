@@ -8,9 +8,13 @@
 #### 1.基础知识
 
 ★ [线上学习-HTML+CSS基础课程](http://www.imooc.com/learn/9)
+
 ★ [线上学习-十天精通CSS3](http://www.imooc.com/learn/33)
+
 [文档-http://www.runoob.com/](http://www.runoob.com/html/html-tutorial.html)
+
 [文档-Mozila官方文档](https://developer.mozilla.org/zh-CN/docs/Web/CSS)
+
 
 > ★★ css3中常用的有：
 - border-radius
@@ -30,24 +34,33 @@
 #### ★★★ 2.css预处理器（以下选择一种学习即可）
 
 [文档-SASS](http://sass.bootcss.com/docs/sass-reference/)
+
 [文档-Stylus](https://stylus.bootcss.com/)
+
 
 ## Javascript
 #### 1.初级
 
 ★ [视频-JavaScript入门篇](http://www.imooc.com/learn/36)
+
 ★ [视频-jQuery基础](https://www.imooc.com/learn/418)
+
 [文档-Mozila官方文档-Javascript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
+
 
 #### ★★ 2.进阶
 
 [视频-JavaScript进阶篇](http://www.imooc.com/learn/10)
+
 [视频-JavaScript深入浅出](http://www.imooc.com/learn/277)
+
 [视频-JavaScript正则表达式](http://www.imooc.com/learn/706)
+
 
 #### ★★★ 3.前沿
 
 [ES6](http://es6.ruanyifeng.com/)
+
 es6中最常用的有：
 - let 和 const
 - 变量的解构赋值
@@ -63,6 +76,7 @@ es6中最常用的有：
 ## 前端框架
 
 [Vuejs](https://cn.vuejs.org/index.html)
+
 [Reactjs](https://cn.vuejs.org/index.html)
 
 ## 当下热门
@@ -79,8 +93,11 @@ es6中最常用的有：
 ### 推荐博客
 
 [张鑫旭的博客](https://www.zhangxinxu.com/wordpress/)
+
 [阮一峰的博客](http://www.ruanyifeng.com/blog/)
+
 [js阮一峰的博客](http://javascript.ruanyifeng.com/)
+
 ......
 
 ## 了解使用
@@ -94,8 +111,11 @@ es6中最常用的有：
 ## 面试题
 
 [一年经验初探阿里巴巴前端社招](https://github.com/jawil/blog/issues/22)
+
 [16年毕业的前端er在杭州求职ing](https://juejin.im/post/5a64541bf265da3e2d338862?utm_source=gold_browser_extension)
+
 [前端开发面试题](https://github.com/markyun/My-blog/tree/master/Front-end-Developer-Questions/Questions-and-Answers)
+
 ......
 
 ### 推荐书籍
@@ -112,5 +132,8 @@ es6中最常用的有：
 ### 推荐问题解决文档方案网站
 
 [掘金](https://juejin.im/welcome/frontend)
+
 [segmentfault](https://segmentfault.com/)
+
 [stackoverflow](https://stackoverflow.com/)
+
