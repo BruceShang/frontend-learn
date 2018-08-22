@@ -143,7 +143,7 @@ es6中最常用的有：
 《你不知道的JavaScript 下》
 
 
-### 推荐问题解决文档方案网站
+### 推荐问题解决方案网站
 
 [掘金](https://juejin.im/welcome/frontend)
 
