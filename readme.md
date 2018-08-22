@@ -125,13 +125,21 @@ es6中最常用的有：
 ### 推荐书籍
 
 《JavaScript权威指南》
+
 《编写可维护的JavaScript》
+
 《CSS禅意花园》
+
 《javascript高级程序设计》
+
 《javascript框架设计》
+
 《HTTP权威指南》
+
 《你不知道的JavaScript 上》
+
 《你不知道的JavaScript 下》
+
 
 ### 推荐问题解决文档方案网站
 
